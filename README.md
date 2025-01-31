@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- Estudante de Análise e desenvolvimento de sistemas<br>- MySql<br>-javaScript</p>
+<p align="left">- Estudante de Análise e desenvolvimento de sistemas<br>- MySql<br>-javaScript-HTML-CSS</p>
 
 ###
 
