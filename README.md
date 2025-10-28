@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- Estudante de Análise e desenvolvimento de sistemas<br>- MySql<br>-javaScript<br>-HTM<br>-CSS<br>-Java</p>
+<p align="left">- Estudante de Análise e desenvolvimento de sistemas<br>- MySql<br>-javaScript<br>-HTM<br>-CSS<br>-Java<br>-TypeScript</p>
 
 ###
 
@@ -20,6 +20,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="TypeScript logo"  />
 </div>
 
 ###
