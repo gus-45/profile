@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- Desenvolvedor Full Stack<br>- MySql<br>-javaScript<br>-HTM<br>-CSS<br>-Java<br>-TypeScript<br>-React<br>-Node.js</p>
+<p align="left">Desenvolvedor Full Stack, com mais de 1 ano de experiência atuando como freelancer no desenvolvimento de aplicações web e landing pages completas, aplicando tecnologias modernas e boas práticas de desenvolvimento. </p>
 
 ###
 
