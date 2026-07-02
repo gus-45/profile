@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- Estudante de Análise e desenvolvimento de sistemas<br>- MySql<br>-javaScript<br>-HTM<br>-CSS<br>-Java<br>-TypeScript</p>
+<p align="left">- Desenvolvedor Full Stack<br>- MySql<br>-javaScript<br>-HTM<br>-CSS<br>-Java<br>-TypeScript<br>-React<br>-Node.js</p>
 
 ###
 
@@ -20,6 +20,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react native logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
 </div>
 
 ###
